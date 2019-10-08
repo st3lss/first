@@ -1,4 +1,4 @@
-# [Project 10 Praktikum](https://st3lss.github.io)
+# [Project 10 Praktikum] (https://st3lss.github.io)
 ## by Tamerlan Salimbeyli
 ver 0.1
 ## Description
